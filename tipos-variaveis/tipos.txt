@@ -1,0 +1,7 @@
+Os oito tipos primitivos em Java são:
+int, byte, short, long, float, double, boolean e char.
+
+ - Esses tipos não são considerados objetos,
+e portanto representam valores brutos.
+
+ - Eles são armazenados diretamente na pilha de memória (Memory Stack).
